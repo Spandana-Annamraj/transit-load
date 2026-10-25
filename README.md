@@ -3,7 +3,7 @@
 This project estimates how crowded Hyderabad's TGSRTC bus trips are at each stop. It uses the official timetable with Apache Spark, and stores and queries the results in Google BigQuery.
 
 ## Live dashboard
-[Paste your Looker Studio share link here]
+https://datastudio.google.com/reporting/3a6d932a-5a9f-4000-9149-0a90b8323c22
 
 ## Report
 The full project report is in [Transit_Load.pdf](Transit_Load.pdf).
